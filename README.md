@@ -1,31 +1,18 @@
 # Homework #2
-
-## Instructions
----
-1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* `for`
+	A circulation going through some sort of data and stop at the end of it or if the condition turn to true
+
 	* `&&`, `||`, `!`
+	&& or ‘and’ is condition that must both side of the equation be true to pass
+	|| or ‘or’ is a condition only accept on side of it to be true 
+	! or not is always reverse the value 
+
 	* Arrays
+	its like a document with pages counted with 0,1,2... to store data 
+
 	* Git
+	its a program that help to control and save older versions of projects and allow multiple people to work on the same projects 
+
 	* GitHub
-
-
-2. Install git.  https://git-scm.com/downloads
-
-
-3. Fork and clone this repo.  When you need to commit use the following commands.
-		
-	* `git status`
-	* `git add --all`
-	* `git status`
-	* `git commit -m "your commit message"`
-	* `git push origin master`
-
-
-4. Make the tests pass!
-
-
-#### Congratulations on finishing Homework #2!
-
-For more information about Lambda School's six month CS program visit: https://lambdaschool.com
+	Is the place where you save your work on the internet incase you lost it on your computer and share it with the world
